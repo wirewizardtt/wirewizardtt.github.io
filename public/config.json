@@ -1,0 +1,49 @@
+{
+  "name": "WireWizard",
+  "short_name": "WireWizard",
+  "description": "Professional Electrical & Plumbing Services",
+  "url": "https://wirewizardtt.github.io",
+  "version": "1.0.0",
+  "author": {
+    "name": "WireWizard",
+    "email": "lon_daly@hotmail.com",
+    "url": "https://wirewizardtt.github.io"
+  },
+  "contact": {
+    "phone": "+1 (868) 290-5953",
+    "email": "lon_daly@hotmail.com",
+    "location": "Trinidad & Tobago"
+  },
+  "social": {
+    "twitter": "@WireWizard",
+    "facebook": "WireWizard",
+    "instagram": "wirewizardtt"
+  },
+  "seo": {
+    "title": "WireWizard - Professional Electrical & Plumbing Services",
+    "description": "WireWizard provides professional electrical and plumbing maintenance services in Trinidad & Tobago. Certified technicians, 24/7 emergency services.",
+    "keywords": ["electrical", "plumbing", "maintenance", "Trinidad", "Tobago"],
+    "og:image": "https://wirewizardtt.github.io/og-image.png",
+    "og:url": "https://wirewizardtt.github.io"
+  },
+  "services": {
+    "electrical": {
+      "title": "Electrical Services",
+      "description": "Wiring, panel upgrades, lighting installation, fault finding, breaker replacement, and electrical maintenance."
+    },
+    "plumbing": {
+      "title": "Plumbing Services",
+      "description": "Leak repairs, pipe installations, drain cleaning, water pumps, bathroom fixtures, and plumbing maintenance."
+    },
+    "maintenance": {
+      "title": "Maintenance Contracts",
+      "description": "Scheduled inspections and preventive maintenance plans for homes, offices, and industrial facilities."
+    }
+  },
+  "clients": [
+    "Homeowners",
+    "Businesses",
+    "Property Managers",
+    "Industrial Clients"
+  ]
+}
